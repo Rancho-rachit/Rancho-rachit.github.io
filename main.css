@@ -1,0 +1,15 @@
+body {
+	font-family: 'Inconsolata', 'Courier New', serif; /*'Cutive Mono'*/
+	background-color: #FAFAFA;
+	color: #333333;
+	font-size:100%;
+	margin-left: 7%;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-bottom: 30px;
+	max-width:900px;
+	min-width: 400px;
+	line-height:130%;
+}
+
+  
